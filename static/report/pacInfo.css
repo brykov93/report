@@ -1,0 +1,37 @@
+textarea{
+            resize: none;
+            vertical-align: top;
+            display: inline-block;
+
+        }
+label{
+            display:block;
+     }
+div{
+            display:inline-block;
+   }
+div#div_antrop{
+            display:none;
+              }
+div#div_pregant{
+            display:none;
+               }
+div#div_func{
+            display:none;
+            }
+div#div_lung{
+            display:none;
+            }
+div#div_analize{
+            display:none;
+               }
+div#div_breeth{
+            display:none;
+              }
+
+section{
+            border-bottom: 2px solid black;
+       }
+h4{
+            border-bottom: 1px solid gray;
+  }
